@@ -1,2 +1,2 @@
 # Upskillcampus
- Data Science Internship
+ Data Science and Machine Learning Internship
